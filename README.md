@@ -11,13 +11,6 @@
 - **Cloud:** AWS (EC2, S3, RDS, Auto Scaling, WAF Shield)  
 - **Databases:** MySQL, RDS  
 - **Tools:** Git, Spring Boot, JDBC
-
----
-
-### 🧑‍💻 Projects
-- **E-Commerce Website** – Full-stack site on AWS (EC2, S3, RDS, Auto Scaling, WAF)  
-- **Hostel Management System** – Java Spring Boot with MySQL  
-- **Wildlife Datasheet Manager** – React + Node.js with AWS & MySQL
 ---
 
 ### 📫 Let's Connect
