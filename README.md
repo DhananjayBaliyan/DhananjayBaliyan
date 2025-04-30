@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi, I'm Kunal Chaudhary👋</h2>
+<h2 align="center">Hi, I'm Dhananjay Baliyan 👋</h2>
 <p align="center">Cloud Engineer Intern | B.Tech CSE @ UPES | Full-Stack & AWS Enthusiast</p>
 
 ---
