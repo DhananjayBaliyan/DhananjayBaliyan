@@ -1,12 +1,12 @@
 
 
 <h2 align="center">Hi, I'm Dhananjay Baliyan 👋</h2>
-<p align="center">Cloud Engineer Intern | B.Tech CSE @ UPES | Full-Stack & AWS Enthusiast</p>
+<p align="center">Cloud Engineer and Front-end Developer | B.Tech CSE @ UPES</p>
 
 ---
 
 ### 🚀 Tech Stack
-- **Languages:** Java, Python, C++, JavaScript  
+- **Languages:** HTML, CSS, Python,, JavaScript  
 - **Web:** React.js, Node.js, HTML/CSS  
 - **Cloud:** AWS (EC2, S3, RDS, Auto Scaling, WAF Shield)  
 - **Databases:** MySQL, RDS  
